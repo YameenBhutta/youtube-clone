@@ -27,7 +27,7 @@ function App() {
     <Route exact path="/Video" element={<VideoModule/>}/>
     <Route  path="/Video/:videoId" element={<DetailLayout/>}/>
     </Routes>
-    </Router>
+    </Router> 
     
     
    
